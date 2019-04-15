@@ -1,0 +1,71 @@
+/* #homeimage{
+    background-image: url('../image/project1.jpg');
+    background-repeat:no-repeat;
+     background-position:cover;
+    height:100%;
+    width:100%;
+} */
+
+#project-lists {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#comments-tag {
+    background-color: skyblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.jumbotron {
+    background-image: url('../image/project2.jpg');
+}
+
+.project-heading-color {
+    color: #fff;
+}
+
+#comment-heading {
+    background-color: skyblue;
+}
+
+#card-heading {
+    color: #000;
+    margin: 4px;
+    font-style: italic;
+}
+
+.media {
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.comment-count {
+    background-color: red;
+    color: #fff;
+    padding: 4px;
+    border-radius: 2px;
+}
+
+#bg-company-index {
+    background-color: #094184;
+}
+
+#login-header,
+#register-header {
+    background-color: #D86013;
+}
+
+.company-header {
+    color: #fff;
+}
+
+#add-members {
+    background-color: rgb(213, 219, 219);
+    padding: 20px;
+    border-radius: 5px;
+    
+}
